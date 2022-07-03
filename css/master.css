@@ -1,0 +1,47 @@
+hr{
+ background-color: white;
+  border-style:none;
+  border-width: 5px;
+  width:5%;
+  border-top-style:dotted;
+  color: grey;
+
+}
+img{
+
+  border-radius:30px;
+}
+img:hover{
+  background-color: gold;
+    border-radius:30%;
+}
+body{
+  background-color: #EAF6F6;
+  display: block;
+  margin: 0;
+}
+h1{
+  color:red;
+  font-size: 20px;
+  text-decoration: underline;
+  margin-top:30px;
+  margin-left:20px;
+  margin-right:12px;
+  margin: 20px;
+  display: inline-block;
+
+}
+.div1{
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  position: absolute;
+
+}
+.div2{
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  position: absolute;
+  top:550px;
+}
